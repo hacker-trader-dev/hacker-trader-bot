@@ -54,7 +54,7 @@ def main():
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("key", verify_key))
     print("⚡ Hacker Trader Bot Status: ACTIVE 24/7")
-    app.run_polling()
+    app.run_polling(drop_pending_updates=True)
 
 if __name__ == "__main__":
     main()

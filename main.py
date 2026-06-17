@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 import os
 
 BOT_TOKEN = "8622377880:AAEMNGZmHwj76rJ3lziHUS4lDlnfHprx3Xg"
-REFERRAL_LINK = "https://broker-qx.pro/sign-up/?lid=2155703
+REFERRAL_LINK = "https://broker-qx.pro/sign-up/?lid=2155703"
 WHATSAPP_LINK = "https://wa.me/923412579993?text=Hi%20Hacker%20Trader,%20I%20need%20the%20Bot%20License%20Key."
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):

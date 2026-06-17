@@ -10,7 +10,7 @@ import os
 import threading
 from flask import Flask
 
-BOT_TOKEN = "8122377880:AAENNGZmHwj78rj31ziHUS41O1nFHprx3Xg"
+BOT_TOKEN = "8721463485:AAER6rDSuaoMRbMZJs508qyc32aDldxRyfA"
 REFERRAL_LINK = "https://broker-qx.pro/sign-up/?lid=2155703"
 WHATSAPP_LINK = "https://wa.me/923412579993?text=Hi%20Hacker%20Trader,%20I%20need%20the%20bot%20license%20Key."
 

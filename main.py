@@ -56,5 +56,5 @@ def main():
     print("⚡ Hacker Trader Bot Status: ACTIVE 24/7")
     app.run_polling()
 
-if name == "main":
+if __name__ == "__main__":
     main()
